@@ -2,9 +2,10 @@
 
 <h2> Cybersecurity Projects :</h2>
 
-- <b>Python</b>
-  - Cybersecurity Quiz 
-
+- <b>Python/</b>
+  - Cybersecurity Quiz (https://github.com/RaineRain/Project-1-EAE-/blob/main/PYGAME.py)
+  - Scratch Phishing Mini Quiz
+  
 <h2>📺 YouTube Videos</h2>
 
 - (Insert video)
