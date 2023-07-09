@@ -1,10 +1,11 @@
 <h1>Hi, I'm LIM YU JIE! 
 
-<h2> Cybersecurity Projects :</h2>
+<h2> Coding Projects :</h2>
 
-- <b>Python/</b>
-  - Cybersecurity Quiz (https://github.com/RaineRain/Project-1-EAE-/blob/main/PYGAME.py)
+- <b>Python/Scratch</b>
+  - Cybersecurity Quiz (Python) (https://github.com/RaineRain/Project-1-EAE-/blob/main/PYGAME.py)
   - Scratch Phishing Mini Quiz
+  - Scratch Minigame (https://scratch.mit.edu/projects/709735752/fullscreen/)
   
 <h2>📺 YouTube Videos</h2>
 
