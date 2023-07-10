@@ -3,9 +3,9 @@
 <h2> Coding Projects :</h2>
 
 - <b>Python/Scratch</b>
-  - Cybersecurity Quiz (Python) (https://github.com/RaineRain/Project-1-EAE-/blob/main/PYGAME.py)
-  - Scratch Phishing Mini Quiz (https://scratch.mit.edu/projects/873162977/editor)
-  - Scratch Minigame (https://scratch.mit.edu/projects/709735752/fullscreen/)
+  - [Cybersecurity Quiz (Python)](https://github.com/RaineRain/Project-1-EAE-/blob/main/PYGAME.py)
+  - [Scratch Phishing Mini Quiz](https://scratch.mit.edu/projects/873162977/fullscreen/))
+  - [Scratch Minigame](https://scratch.mit.edu/projects/709735752/fullscreen/)
   
 
 
