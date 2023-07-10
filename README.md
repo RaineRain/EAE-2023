@@ -7,13 +7,6 @@
   - Scratch Phishing Mini Quiz
   - Scratch Minigame (https://scratch.mit.edu/projects/709735752/fullscreen/)
   
-<h2>📺 YouTube Videos</h2>
-
-- (Insert video)
-
-<h2> Certifications
-
-- (Insert cert)
 
 
 <!--
